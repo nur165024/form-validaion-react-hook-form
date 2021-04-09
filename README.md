@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+### `npm install react-hook-form`
+
 Form validation react hook form 
 
 This is website link : (https://react-hook-form.com/)
